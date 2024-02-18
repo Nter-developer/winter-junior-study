@@ -36,7 +36,7 @@
 |:---:|:---|
 |1주차| GitHub issue templates / Git Branch 전략 / Naming convention|
 |2주차| 프로젝트 적용 실습|
-|3주차| Markdown / Swagger / GitHub Actions|
+|3주차| Markdown / Swagger(Spring) UI Resource(Android) / GitHub Actions|
 |4주차| 프로젝트 적용 실습|
 
 </br></br>
