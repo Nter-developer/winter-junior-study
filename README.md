@@ -15,7 +15,7 @@
 </br></br></br>
 
 ## 스터디 멤버
-|<a href="https://github.com/Nter-developer"><img width="100px" src="https://avatars.githubusercontent.com/u/59863112?v=4"/></a>|<a href="https://github.com/Kimhanyeol"><img width="100px" src="https://avatars.githubusercontent.com/u/63261054?v=4"/></a>|<a href="https://github.com/LeeShinHaeng"><img width="100px" src="https://avatars.githubusercontent.com/u/72925577?v=4"/></a>|<a href="https://github.com/zmzmdd"><img width="100px" src="https://avatars.githubusercontent.com/u/116993837?v=4"/></a>|
+|<a href="https://github.com/Nter-developer"><img width="100px" src="https://avatars.githubusercontent.com/u/59863112?v=4"/></a>|<a href="https://github.com/Kimhanyeol"><img width="100px" src="https://avatars.githubusercontent.com/u/63261054?v=4"/></a>|<a href="https://github.com/LeeShinHaeng"><img width="100px" src="https://avatars.githubusercontent.com/u/72925577?v=4"/></a>|<a href="https://github.com/kim0jung"><img width="100px" src="https://avatars.githubusercontent.com/u/116993837?v=4"/></a>|
 |:---:|:---:|:---:|:---:|
 |이상현|김한열|이신행|김영중|
 
